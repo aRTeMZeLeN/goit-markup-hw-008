@@ -1,0 +1,81 @@
+/* title */
+
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.features__title {
+  font-weight: 700;
+  line-height: 16px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+
+.our-work-title {
+  margin-bottom: 50px;
+}
+
+
+.modal-title {
+  width: 100%;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  letter-spacing: 0.03em;
+
+  color: #212121;
+
+  margin-bottom: 12px;
+}
+
+.work-item-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 370px;
+  height: 70px;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--txt-main-color);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.8), rgba(47, 48, 58, 0.8));
+}
+
+.our-clients-title {
+  margin-bottom: 50px;
+}
+
+.projects-title {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.03em;
+  color: var(--txt-body-color);
+  margin-left: 24px;
+  margin-right: 24px;
+  margin-bottom: 4px;
+}
+
+
+.footer__title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+

@@ -1,0 +1,49 @@
+/** container */ 
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.header-main-container {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.features__container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+
+.our-work-container {
+  padding-bottom: 94px;
+}
+
+.portfolio-container {
+  background-color: var(--txt-main-color);
+  padding-top: 94px;
+}
+
+
+.footer__container {
+  display: flex;
+
+  text-align: left;
+}
+
+.footer__logo-container {
+  margin-right: 70px;
+}
+
+
+.footer__subscribe-container {
+  margin-left: 93px;
+  width: 570px;
+}

@@ -1,0 +1,17 @@
+/** second partial */
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-size: 14px;
+  color: var(--txt-body-color);
+  width: 1600px;
+  background-color: #e5e5e5;
+  text-align: center;
+
+  &.no-scroll {
+  overflow: hidden;
+}
+}
+

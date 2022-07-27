@@ -1,0 +1,30 @@
+/* features */ 
+
+.features {
+  letter-spacing: 0.03em;
+  background-color: var(--txt-main-color);
+}
+
+
+
+.features__img-box {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background: #f5f4fa;
+  border-radius: 4px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.features__img {
+  margin: 0;
+}
+
+
+.features__txt {
+  line-height: 1.71;
+  color: var(--txt-secondary-color);
+  text-align: left;
+}
